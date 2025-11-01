@@ -1,0 +1,7 @@
+# MP4 to MP3 Extractor Requirements
+
+# Drag and drop support for tkinter
+tkinterdnd2
+
+# Note: ffmpeg and ffprobe must be installed separately on your system
+# See README.md for installation instructions
